@@ -10,3 +10,11 @@ sel = cars[dr]
 
 # Print sel
 print(sel)
+
+
+# Convert code to a one-liner
+
+sel = cars[cars['drives_right']]
+
+# Print sel
+print(sel)
